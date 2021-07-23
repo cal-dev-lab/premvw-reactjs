@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/projects/premvw/static/css/main.b8915295.chunk.css",
+    "main.js": "/projects/premvw/static/js/main.f8d78cab.chunk.js",
+    "main.js.map": "/projects/premvw/static/js/main.f8d78cab.chunk.js.map",
+    "runtime-main.js": "/projects/premvw/static/js/runtime-main.ef5a2d8d.js",
+    "runtime-main.js.map": "/projects/premvw/static/js/runtime-main.ef5a2d8d.js.map",
+    "static/js/2.c44c1e75.chunk.js": "/projects/premvw/static/js/2.c44c1e75.chunk.js",
+    "static/js/2.c44c1e75.chunk.js.map": "/projects/premvw/static/js/2.c44c1e75.chunk.js.map",
+    "index.html": "/projects/premvw/index.html",
+    "static/css/main.b8915295.chunk.css.map": "/projects/premvw/static/css/main.b8915295.chunk.css.map",
+    "static/js/2.c44c1e75.chunk.js.LICENSE.txt": "/projects/premvw/static/js/2.c44c1e75.chunk.js.LICENSE.txt",
+    "static/media/golf1.b7489573.jpg": "/projects/premvw/static/media/golf1.b7489573.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef5a2d8d.js",
+    "static/js/2.c44c1e75.chunk.js",
+    "static/css/main.b8915295.chunk.css",
+    "static/js/main.f8d78cab.chunk.js"
+  ]
+}
