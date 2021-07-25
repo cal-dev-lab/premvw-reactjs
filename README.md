@@ -34,7 +34,7 @@ During the build I have managed to use:
 - Emailjs
 - Hero Icons
 
-Using Emailsjs allowed me to send form data to an email adress which provided the customers name and customers email. This would go direct to the dealer/brand's email address allowing them to get in touch with the customer.
+Using Emailsjs allowed me to send form data to an email address which provided the customers name and customers email. This would go direct to the dealer/brand's email address allowing them to get in touch with the customer.
 Toastify was then used to show the user a success notification that pops up green indicating the form data was sent successfully.
 
 Please view the image to see what the email comes through as from the web form:
@@ -47,6 +47,8 @@ Given more time I would like to add data validation to the form and to make the 
 Another thought would be to use different Toastify notifications such as an error notification indicating to the user the form was not sent due to any technical problems or the form didn't meet the requirements of the data validation.
 
 I would like to change the nav bar to be transparent on top of the main image then once the nav bar gets to the bottom of the image, the nav bar would change to a solid fill colour.
+
+I did install GSAP to do animations with text and images. This is something I will continue to work on.
 
 ## Take away
 
