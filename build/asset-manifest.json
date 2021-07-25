@@ -1,21 +1,33 @@
 {
   "files": {
-    "main.css": "/projects/premvw/static/css/main.b8915295.chunk.css",
-    "main.js": "/projects/premvw/static/js/main.f8d78cab.chunk.js",
-    "main.js.map": "/projects/premvw/static/js/main.f8d78cab.chunk.js.map",
+    "main.css": "/projects/premvw/static/css/main.61f52299.chunk.css",
+    "main.js": "/projects/premvw/static/js/main.b2816947.chunk.js",
+    "main.js.map": "/projects/premvw/static/js/main.b2816947.chunk.js.map",
     "runtime-main.js": "/projects/premvw/static/js/runtime-main.ef5a2d8d.js",
     "runtime-main.js.map": "/projects/premvw/static/js/runtime-main.ef5a2d8d.js.map",
-    "static/js/2.c44c1e75.chunk.js": "/projects/premvw/static/js/2.c44c1e75.chunk.js",
-    "static/js/2.c44c1e75.chunk.js.map": "/projects/premvw/static/js/2.c44c1e75.chunk.js.map",
+    "static/css/2.cb7e0ebe.chunk.css": "/projects/premvw/static/css/2.cb7e0ebe.chunk.css",
+    "static/js/2.2106d5f6.chunk.js": "/projects/premvw/static/js/2.2106d5f6.chunk.js",
+    "static/js/2.2106d5f6.chunk.js.map": "/projects/premvw/static/js/2.2106d5f6.chunk.js.map",
     "index.html": "/projects/premvw/index.html",
-    "static/css/main.b8915295.chunk.css.map": "/projects/premvw/static/css/main.b8915295.chunk.css.map",
-    "static/js/2.c44c1e75.chunk.js.LICENSE.txt": "/projects/premvw/static/js/2.c44c1e75.chunk.js.LICENSE.txt",
-    "static/media/golf1.b7489573.jpg": "/projects/premvw/static/media/golf1.b7489573.jpg"
+    "static/css/2.cb7e0ebe.chunk.css.map": "/projects/premvw/static/css/2.cb7e0ebe.chunk.css.map",
+    "static/css/main.61f52299.chunk.css.map": "/projects/premvw/static/css/main.61f52299.chunk.css.map",
+    "static/js/2.2106d5f6.chunk.js.LICENSE.txt": "/projects/premvw/static/js/2.2106d5f6.chunk.js.LICENSE.txt",
+    "static/media/gtd.fb003638.jpg": "/projects/premvw/static/media/gtd.fb003638.jpg",
+    "static/media/gtd10.jpg": "/projects/premvw/static/media/gtd10.a17b2dcd.jpg",
+    "static/media/gtd2.jpg": "/projects/premvw/static/media/gtd2.9c3c6712.jpg",
+    "static/media/gtd3.jpg": "/projects/premvw/static/media/gtd3.c3ce31c2.jpg",
+    "static/media/gtd4.jpg": "/projects/premvw/static/media/gtd4.23d8f36d.jpg",
+    "static/media/gtd5.jpg": "/projects/premvw/static/media/gtd5.8899aa84.jpg",
+    "static/media/gtd6.jpg": "/projects/premvw/static/media/gtd6.bee585ae.jpg",
+    "static/media/gtd7.jpg": "/projects/premvw/static/media/gtd7.c7a8ff1b.jpg",
+    "static/media/gtd8.jpg": "/projects/premvw/static/media/gtd8.fd124e9c.jpg",
+    "static/media/gtd9.jpg": "/projects/premvw/static/media/gtd9.308f144d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.ef5a2d8d.js",
-    "static/js/2.c44c1e75.chunk.js",
-    "static/css/main.b8915295.chunk.css",
-    "static/js/main.f8d78cab.chunk.js"
+    "static/css/2.cb7e0ebe.chunk.css",
+    "static/js/2.2106d5f6.chunk.js",
+    "static/css/main.61f52299.chunk.css",
+    "static/js/main.b2816947.chunk.js"
   ]
 }

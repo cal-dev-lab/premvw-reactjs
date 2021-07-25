@@ -2,3 +2,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/*
+old button 
+.btn {
+    @apply shadow-md py-3 px-6 rounded-md transition duration-300;
+  } 
+*/
+
+.btn-white {
+  @apply bg-gray-500;
+}
+
+html {
+  scroll-behavior: smooth;
+}

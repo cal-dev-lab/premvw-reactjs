@@ -8,8 +8,8 @@ function Navbar() {
   }
 
   return (
-    <nav className="bg-white border-b-2 border-blue-700 sticky top-0 z-30">
-      <div className="selection:bg-pink-500 max-w-6xl px-8 mx-auto">
+    <nav className="bg-white sticky top-0 z-30">
+      <div className="max-w-6xl px-8 mx-auto">
         <div className="flex justify-between">
           <div className="flex space-x-4">
             {/* Logo */}
@@ -18,12 +18,12 @@ function Navbar() {
                 href="/#"
                 className="flex items-center py-5 px-2 text-gray-700"
               >
-                <span className="font-bold text-blue-700 text-lg hover:text-blue-800 md:text-2xl">
+                <span className="font-bold text-gray-700 text-lg hover:text-blue-700 transition duration-300">
                   Premium Volkswagen
                 </span>
               </a>
             </div>
-            {/* Primary Nav */}
+            {/* Main nav */}
             <div className="hidden md:flex items-center space-x-1">
               <a
                 href="/#"
@@ -45,20 +45,20 @@ function Navbar() {
               </a>
             </div>
           </div>
-          {/* Secondary Nav */}
+          {/* Secondary nav */}
           <div className="hidden md:flex items-center space-x-1">
             <a
               href="/#"
-              className="text-xs tracking-widest py-4 px-4 bg-blue-700 hover:bg-blue-800 text-white rounded transition duration-300"
+              className="text-xs hover:bg-blue-700 py-2 px-4 bg-blue-600  text-white rounded transition duration-300"
             >
-              CONTACT
+              Get a quote
             </a>
           </div>
-          {/* Mobile Button */}
+          {/* Mobile button */}
           <div className="md:hidden flex items-center">
             <button onClick={mobileClick} className="mobile-menu-button">
               <svg
-                class="w-6 h-6 text-black"
+                class="w-6 h-6 text-black hover:text-blue-700 transition duration-300"
                 fill="none"
                 stroke="currentColor"
                 viewBox="0 0 24 24"
@@ -75,7 +75,7 @@ function Navbar() {
           </div>
         </div>
       </div>
-      {/* Mobile Menu */}
+      {/* Mobile menu */}
       <div className="mobile-menu hidden md:hidden">
         <a
           href="/#"
