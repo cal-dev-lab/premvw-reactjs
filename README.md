@@ -50,7 +50,11 @@ I would like to change the nav bar to be transparent on top of the main image th
 
 ## Take away
 
-Doing this exercise allowed me to get even more understanding of flex and grid. Also furthered my responsive design knowledge. I am happy with my comments in the code declaring what part of the code is what. This is also good practice as it will be clear for other developers to read through my code and understand what is going on. Furthermore, working collaboratively this will increase workflow and efficiency in a team as there will be no head scratching trying to figure out what is what.
+Doing this exercise allowed me to get even more understanding of flex and grid. Also furthered my responsive design knowledge. 
+
+I am happy with my comments in the code declaring what part of the code is what. This is also good practice as it will be clear for other developers to read through my code and understand what is going on. 
+
+Furthermore, working collaboratively this will increase workflow and efficiency in a team as there will be no head scratching trying to figure out what is what.
 
 # Thank you!
 
