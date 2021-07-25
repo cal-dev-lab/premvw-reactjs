@@ -37,7 +37,7 @@ During the build I have managed to use:
 Using Emailsjs allowed me to send form data to an email adress which provided the customers name and customers email. This would go direct to the dealer/brand's email address allowing them to get in touch with the customer.
 Toastify was then used to show the user a success notification that pops up green indicating the form data was sent successfully.
 
-Please view the image below to see what the email comes through as from the web form:
+Please view the image to see what the email comes through as from the web form:
 https://snipboard.io/LoGF89.jpg
 
 ## What I would do differently next time
