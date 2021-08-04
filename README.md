@@ -34,8 +34,11 @@ During the build I have managed to use:
 - Emailjs
 - Hero Icons
 
-Using Emailsjs allowed me to send form data to an email adress which provided the customers name and customers email. This would go direct to the dealer/brand's email address allowing them to get in touch with the customer.
+Using Emailsjs allowed me to send form data to an email address which provided the customers name and customers email. This would go direct to the dealer/brand's email address allowing them to get in touch with the customer.
 Toastify was then used to show the user a success notification that pops up green indicating the form data was sent successfully.
+
+Please view the image to see what the email comes through as from the web form:
+https://snipboard.io/LoGF89.jpg
 
 ## What I would do differently next time
 
@@ -45,9 +48,15 @@ Another thought would be to use different Toastify notifications such as an erro
 
 I would like to change the nav bar to be transparent on top of the main image then once the nav bar gets to the bottom of the image, the nav bar would change to a solid fill colour.
 
+I did install GSAP to do animations with text and images. This is something I will continue to work on.
+
 ## Take away
 
-Doing this exercise allowed me to get even more understanding of flex and grid. Also furthered my responsive design knowledge. I am happy with my comments in the code declaring what part of the code is what. This is also good practice as it will be clear for other developers to read through my code and understand what is going on. Furthermore, working collaboratively this will increase workflow and efficiency in a team as there will be no head scratching trying to figure out what is what.
+Doing this exercise allowed me to get even more understanding of flex and grid. Also furthered my responsive design knowledge. 
+
+I am happy with my comments in the code declaring what part of the code is what. This is also good practice as it will be clear for other developers to read through my code and understand what is going on. 
+
+Furthermore, working collaboratively this will increase workflow and efficiency in a team as there will be no head scratching trying to figure out what is what.
 
 # Thank you!
 
