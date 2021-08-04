@@ -14,7 +14,7 @@ function HeroImg() {
         <div className="text-7xl md:text-9xl font-thin text-white">e-Golf</div>
         <div className="text-xs md:text-md text-gray-300">2021</div>
       </div>
-      <img src={gtd} alt="The new e-Golf" />
+      <img src={gtd} alt="The new e-Golf" className="w-full h-full" />
     </div>
   );
 }
