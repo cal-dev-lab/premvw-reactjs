@@ -2,7 +2,6 @@
   "name": "premvw",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://c-l.dev/projects/premvw",
   "dependencies": {
     "@craco/craco": "^6.2.0",
     "@heroicons/react": "^1.0.2",
